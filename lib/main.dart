@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Titik masuk program: Dart selalu memulai dari fungsi main(). 
 void main() {
   runApp(const HelloApp());
 }
