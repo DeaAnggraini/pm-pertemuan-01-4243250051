@@ -42,7 +42,7 @@ class HelloPage extends StatelessWidget {
               style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 8),
-            Text('Nama : Dea Anggrainii'),
+            Text('Nama : Dea Anggraini'),
             Text('NIM : 4243250051'),
             Text('Kelas : PSIK 24 C'),
             SizedBox(height: 16),
